@@ -1,0 +1,8 @@
+StudentID,Name,Subject,StudyHours,Grade
+101,Alice,Math,2.5,85
+102,Bob,Science,4.0,92
+103,Charlie,Math,1.5,78
+104,David,English,3.0,88
+105,Emily,Science,5.5,95
+106,Frank,Math,,65
+107,Grace,English,2.0,81
